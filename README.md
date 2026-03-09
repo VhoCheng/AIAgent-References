@@ -32,6 +32,13 @@ We welcome contributions from the community! If you'd like to add a paper, fix a
 
 # Latest Papers
 
+## Year 2026
+1. [arxiv 2026.01] **Improving the Safety and Trustworthiness of Medical AI via Multi-Agent Evaluation Loops** [[paper]](https://arxiv.org/abs/2601.13268v1)
+2. [arxiv 2026.01] **MEDDIALOGRUBRICS: A Comprehensive Benchmark and Evaluation Framework for Multi-Turn Medical Consultations in Large Language Models** [[paper]](https://arxiv.org/abs/2601.03023v2)
+3. [arxiv 2026.01] **Clinical Knowledge Graph Construction and Evaluation with Multi-LLMs via Retrieval-Augmented Generation** [[paper]](https://arxiv.org/abs/2601.01844v1)
+4. [arxiv 2026.01] **ART: Action-based Reasoning Task Benchmarking for Medical AI Agents** [[paper]](https://arxiv.org/abs/2601.08988v1)
+5. [arxiv 2026.01] **(Title Unavailable Due to Content Limitation)** [[paper]](https://arxiv.org/abs/2601.14192v1)
+
 ## Year 2025
 
 1. [arxiv 2025.12] **Radiologist Copilot: Agentic AI Assistant for Holistic Radiology Reporting with Quality Control** [[paper]](https://arxiv.org/abs/2512.02814)
