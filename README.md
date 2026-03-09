@@ -10,6 +10,26 @@ A curated collection of cutting-edge research, projects, and resources focusing 
 ## Collaboration
 We welcome collaboration opportunities! For inquiries, please contact: weihao_cheng@hdu.edu.cn
 
+---
+
+## 🚀 Features
+- **Comprehensive Coverage**: Curated papers spanning clinical imaging, EHR reasoning, drug discovery, patient care, and healthcare administration.
+- **Structured Organization**: Papers categorized by year, application domain, and technical focus for easy navigation.
+- **Active Maintenance**: Regularly updated with the latest research from arXiv, top conferences, and journals.
+- **Open Collaboration**: Community-driven, with contributions from researchers and practitioners worldwide.
+
+## 📈 Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=VhoCheng/AIAgent-References&type=Date)](https://star-history.com/#VhoCheng/AIAgent-References&Date)
+
+## 🛠️ How to Contribute
+We welcome contributions from the community! If you'd like to add a paper, fix a typo, or suggest a new category:
+1. Fork this repository.
+2. Create a new branch (`git checkout -b feature/new-paper`).
+3. Make your changes and commit them (`git commit -m 'Add new paper on XYZ'`).
+4. Push to the branch (`git push origin feature/new-paper`).
+5. Open a Pull Request.
+
+
 # Latest Papers
 
 ## Year 2025
