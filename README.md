@@ -14,9 +14,9 @@ We welcome collaboration opportunities! For inquiries, please contact: weihao_ch
 
 ## 🚀 Features
 - **Comprehensive Coverage**: Curated papers spanning clinical imaging, EHR reasoning, drug discovery, patient care, and healthcare administration.
-- **Structured Organization**: Papers categorized by year, application domain, and technical focus for easy navigation.
+- **Structured Organization**: Papers categorized by year, and technical focus for easy navigation.
 - **Active Maintenance**: Regularly updated with the latest research from arXiv, top conferences, and journals.
-- **Open Collaboration**: Community-driven, with contributions from researchers and practitioners worldwide.
+- **Open Collaboration**: School-driven, with contributions from other universitys.
 
 ## 📈 Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=VhoCheng/AIAgent-References&type=Date)](https://star-history.com/#VhoCheng/AIAgent-References&Date)
